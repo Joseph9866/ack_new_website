@@ -67,12 +67,11 @@ const Gallery: React.FC = () => {
       title: 'Welcoming Reception',
       description: 'Warm and inviting reception area to greet our guests'
     },
-
     {
-      src: 'Images/ACK1.webp',
-      category: 'location',
-      title: 'Sunset Views',
-      description: 'Spectacular sunset views from our property'
+      src: 'Images/ACKeventhall.jpeg',
+      category: 'amenities',
+      title: 'Event Hall Setup',
+      description: 'Spacious and well-decorated hall ideal for training, workshops, and meetings.'
     }
   ];
 
