@@ -25,10 +25,7 @@ const About: React.FC = () => {
     'Complimentary breakfast with local and continental options',
     'Secure parking for all guests',
     '24/7 reception and security service',
-    'Laundry service available',
-    'Tour and activity arrangements',
-    'Airport transfer service',
-    'Beautiful garden and outdoor seating areas'
+    'Beautiful garden and outdoor seating areas',
   ];
 
 
