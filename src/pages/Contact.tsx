@@ -50,7 +50,7 @@ const Contact: React.FC = () => {
                     <span>Call Now</span>
                   </a>
                   <a
-                    href="https://wa.me/254720577442?text=Hi, I just sent a message through your website"
+                    href="https://wa.me/+254720577442?text=Hi, I just sent a message through your website"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center space-x-2 bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
@@ -153,7 +153,7 @@ const Contact: React.FC = () => {
                   Get instant responses to your questions via WhatsApp
                 </p>
                 <a
-                  href="https://wa.me/254720577442?text=Hi, I have a question about ACK Mt. Kenya Guest House"
+                  href="https://wa.me/+254720577442?text=Hi, I have a question about ACK Mt. Kenya Guest House"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors"

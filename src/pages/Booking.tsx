@@ -96,7 +96,7 @@ const Booking: React.FC = () => {
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   
                   <a
-                    href={`https://wa.me/254720577442?text=${message}`}
+                    href={`https://wa.me/+254720577442?text=${message}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center space-x-2 bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
